@@ -1,0 +1,11 @@
+URxvt*depth: 32
+URxvt*buffered: true
+
+URxvt*foreground: #ffffff
+URxvt*background: rgba:0000/0000/0000/0000
+
+URxvt*transparent: false 
+URxvt*shading: 100
+URxvt*tintColor: white
+
+URxvt*scrollBar: false
