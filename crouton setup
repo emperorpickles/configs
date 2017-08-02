@@ -1,0 +1,2 @@
+Ubuntu Packages:
+  sudo apt-get install git vim python python-pip python-dev python-software-properties sshfs software-properties-common
